@@ -1,0 +1,42 @@
+* {
+  font-family: 'Sansation', sans-serif;
+  letter-spacing: -1.2px;
+  color: #fff;
+}
+html, body {
+  background-color: rgb(25, 25, 25);
+  padding: none;
+}
+button {
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  background-color: rgb(25, 25, 25);
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+input[type="text"] {
+  color: #fff;
+  border-radius: 3px;
+  border: 1px solid #fff;
+  background-color: rgb(25, 25, 25);
+  cursor: pointer;
+  padding: 8px;
+  transition: 0.3s ease;
+}
+input[type="text"]:hover {
+  background-color: rgb(31, 31, 31);
+  cursor: pointer;
+}
+input[type="text"]:focus {
+  outline: none;
+  border-color: rgb(24, 116, 255);
+  color: rgb(24, 116, 255);
+}
+input[type="text"]:focus:hover {
+  border-color: rgb(24, 116, 255);
+  color: rgb(24, 136, 255);
+}
+iframe {
+  aspect-ratio: 16 / 9;
+}
