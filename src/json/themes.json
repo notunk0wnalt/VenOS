@@ -1,0 +1,14 @@
+{
+  "dark-theme":{
+    "bgcolor":"#252626",
+    "txtcolor":"#ffffff",
+    "maincolor":"#10eb64",
+    "hlcolor":"#00ff62"
+  },
+  "light-theme":{
+    "bgcolor":"#252626",
+    "txtcolor":"#ffffff",
+    "maincolor":"#10eb64",
+    "hlcolor":"#00ff62"
+  }
+}
