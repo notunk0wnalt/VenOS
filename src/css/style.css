@@ -15,6 +15,9 @@ button {
   cursor: pointer;
   transition: 0.3s ease;
 }
+button:hover {
+  background-color: rgb(31, 31, 31)
+}
 input[type="text"] {
   color: #fff;
   border-radius: 3px;
